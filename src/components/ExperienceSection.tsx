@@ -7,6 +7,11 @@ const experiences = [
     desc: "Web Design Specialist (Self-Employed via Hostinger). Built and optimized websites for multiple clients.",
   },
   {
+    role: "Career Document Specialist – ResumeNow",
+    period: "Present",
+    desc: "Build professional resumes, CVs, cover letters and other career documents for clients on the ResumeNow platform.",
+  },
+  {
     role: "Web Designer – Lovable",
     period: "Present",
     desc: "Designed responsive and conversion-focused websites.",
