@@ -48,13 +48,15 @@ const HeroSection = () => (
         animate={{ opacity: 1, scale: 1 }}
         transition={{ duration: 0.8, delay: 0.2, ease: [0.22, 1, 0.36, 1] }}
       >
-        <div className="relative w-72 md:w-80 lg:w-96">
-          <div className="absolute -inset-4 bg-gradient-to-tr from-primary/20 to-transparent rounded-3xl blur-2xl" />
-          <img
-            src={headshot}
-            alt="Wasiu Toheeb – Founder of RevampingAndOptimizationHub"
-            className="relative rounded-2xl w-full object-cover shadow-2xl shadow-background/60"
-          />
+        <div className="relative w-72 md:w-80 lg:w-96 flex items-center justify-center">
+          <div className="absolute -inset-4 bg-gradient-to-tr from-primary/20 to-transparent rounded-full blur-2xl" />
+          <div className="relative w-64 h-64 md:w-72 md:h-72 lg:w-80 lg:h-80 rounded-full overflow-hidden ring-4 ring-primary/30 shadow-2xl shadow-background/60">
+            <img
+              src={headshot}
+              alt="Wasiu Toheeb – Founder of RevampingAndOptimizationHub"
+              className="w-full h-full object-cover"
+            />
+          </div>
         </div>
       </motion.div>
     </div>

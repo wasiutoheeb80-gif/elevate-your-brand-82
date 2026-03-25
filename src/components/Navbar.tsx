@@ -21,7 +21,7 @@ const Navbar = () => {
 
   return (
     <nav
-      className={`fixed top-4 left-1/2 -translate-x-1/2 z-50 transition-all duration-500 rounded-pill px-6 py-3 ${
+      className={`fixed top-4 left-1/2 -translate-x-1/2 z-50 w-[92%] max-w-4xl transition-all duration-500 rounded-pill px-6 py-3 ${
         scrolled
           ? "glass-card shadow-lg shadow-background/50"
           : "bg-transparent"
