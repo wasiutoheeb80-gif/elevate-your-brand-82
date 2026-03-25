@@ -14,7 +14,7 @@ const Footer = () => (
     </div>
     <div className="container relative z-10 text-center">
       <p className="text-muted-foreground text-sm">
-        © 2026 RevampingAndOptimizationHub | Built by Wasiu Toheeb
+        © 2026 RevampingAndOptimizationHub | Wasiu Toheeb
       </p>
     </div>
   </footer>
