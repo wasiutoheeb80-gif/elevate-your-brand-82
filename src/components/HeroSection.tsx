@@ -54,7 +54,7 @@ const HeroSection = () => (
             <img
               src={headshot}
               alt="Wasiu Toheeb – Founder of RevampingAndOptimizationHub"
-              className="w-full h-full object-cover"
+              className="w-full h-full object-cover object-top scale-110"
             />
           </div>
         </div>
