@@ -3,26 +3,26 @@ import { Star, Quote } from "lucide-react";
 
 const testimonials = [
   {
-    name: "Adebayo O.",
-    role: "Small Business Owner",
+    name: "James R.",
+    role: "Small Business Owner, USA",
     text: "RevampingAndOptimizationHub completely transformed my website. My business has seen a 40% increase in online inquiries since the redesign. Highly recommended!",
     rating: 5,
   },
   {
-    name: "Fatima K.",
-    role: "Job Seeker",
+    name: "Sarah M.",
+    role: "Job Seeker, UK",
     text: "Wasiu rewrote my resume and optimized my LinkedIn profile. Within two weeks, I started getting interview calls. His career branding service is a game-changer.",
     rating: 5,
   },
   {
-    name: "Chinedu E.",
-    role: "Startup Founder",
+    name: "David L.",
+    role: "Startup Founder, Canada",
     text: "Professional, fast, and affordable. The landing page they built for my product launch was clean, modern, and converted really well. Will definitely work with them again.",
     rating: 5,
   },
   {
-    name: "Amina S.",
-    role: "Freelancer",
+    name: "Elena K.",
+    role: "Freelancer, Germany",
     text: "I needed a full brand identity — logo, website, and content. Toheeb delivered everything on time and exceeded my expectations. Five stars!",
     rating: 5,
   },
