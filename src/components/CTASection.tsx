@@ -20,7 +20,7 @@ const CTASection = () => (
           </p>
           <div className="flex flex-wrap justify-center gap-4">
             <a
-              href="https://wa.me/2348130270031"
+              href="https://wa.me/2349125880785"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-primary text-primary-foreground font-semibold px-8 py-3 rounded-pill hover:opacity-90 transition-opacity"

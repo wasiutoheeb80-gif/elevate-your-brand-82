@@ -31,7 +31,7 @@ const HeroSection = () => (
             Get Started
           </a>
           <a
-            href="https://wa.me/2348130270031"
+            href="https://wa.me/2349125880785"
             target="_blank"
             rel="noopener noreferrer"
             className="border border-border text-foreground font-semibold px-8 py-3 rounded-pill hover:bg-muted/30 transition-colors"

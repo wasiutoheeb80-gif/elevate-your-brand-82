@@ -18,13 +18,13 @@ const ContactSection = () => (
         </h2>
         <div className="flex flex-col gap-4 items-center">
           <a
-            href="https://wa.me/2348130270031"
+            href="https://wa.me/2349125880785"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
           >
             <Phone className="w-5 h-5 text-primary" />
-            +2348130270031
+            +2349125880785
           </a>
           <a
             href="mailto:wasiutoheeb2025@gmail.com"
