@@ -27,11 +27,11 @@ const ContactSection = () => (
             +2348130270031
           </a>
           <a
-            href="mailto:wasiutoheeb80@gmail.com"
+            href="mailto:wasiutoheeb2025@gmail.com"
             className="flex items-center gap-3 text-muted-foreground hover:text-foreground transition-colors"
           >
             <Mail className="w-5 h-5 text-primary" />
-            wasiutoheeb80@gmail.com
+            wasiutoheeb2025@gmail.com
           </a>
           <a
             href="https://www.linkedin.com/in/wasiu-toheeb-91469a307/"

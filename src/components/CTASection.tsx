@@ -28,7 +28,7 @@ const CTASection = () => (
               Chat on WhatsApp
             </a>
             <a
-              href="mailto:wasiutoheeb80@gmail.com"
+              href="mailto:wasiutoheeb2025@gmail.com"
               className="border border-border text-foreground font-semibold px-8 py-3 rounded-pill hover:bg-muted/30 transition-colors"
             >
               Send an Email
